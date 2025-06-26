@@ -33,8 +33,7 @@ Builds a small student management system that:
 - Displays all the student info nearly
 - Uses **functions** to separate logic (input, calculation, display)
 
-[QUESTION 1](path/to/image.jpg)
-
+![QUESTION 1](https://github.com/ELOI-CODE1/intro_to_bigdata/blob/main/images/question%201.png)
 
 ### ✅ Question 2: Palindrome Checker
 
@@ -44,8 +43,7 @@ Checks if the user-inputted string is a **palindrome** (reads the same forwards 
 - Input: `dad or madam` → Output: ✅ Palindrome
 - Input: `hello` → Output: ❌ Not a palindrome
 
-![QUESTION 2](path/to/image.jpg)
-
+![QUESTION 2](https://github.com/ELOI-CODE1/intro_to_bigdata/blob/main/images/question%202.png)
 ### ✅ Question 3: Iterate Over Two Texts
 
 - Asks the user for two separate texts
@@ -53,7 +51,7 @@ Checks if the user-inputted string is a **palindrome** (reads the same forwards 
 - Creates a list of individual characters from the combined string
 - Prints the characters and a thank you message
 
-![QUESTION 3](path/to/image.jpg)
+![QUESTION 3](https://github.com/ELOI-CODE1/intro_to_bigdata/blob/main/images/question%203.png)
 
 ---
 
