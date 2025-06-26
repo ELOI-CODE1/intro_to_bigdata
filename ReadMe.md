@@ -30,16 +30,21 @@ Builds a small student management system that:
 
 - Takes student's name, age, and grades for multiple courses
 - Calculates the average grade
-- Displays all the student info neatly
+- Displays all the student info nearly
 - Uses **functions** to separate logic (input, calculation, display)
+
+[QUESTION 1](path/to/image.jpg)
+
 
 ### ✅ Question 2: Palindrome Checker
 
 Checks if the user-inputted string is a **palindrome** (reads the same forwards and backwards).
 
 **Example:**
-- Input: `madam` → Output: ✅ Palindrome
+- Input: `dad or madam` → Output: ✅ Palindrome
 - Input: `hello` → Output: ❌ Not a palindrome
+
+![QUESTION 2](path/to/image.jpg)
 
 ### ✅ Question 3: Iterate Over Two Texts
 
@@ -47,6 +52,8 @@ Checks if the user-inputted string is a **palindrome** (reads the same forwards 
 - Combines them into one
 - Creates a list of individual characters from the combined string
 - Prints the characters and a thank you message
+
+![QUESTION 3](path/to/image.jpg)
 
 ---
 
