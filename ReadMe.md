@@ -58,7 +58,6 @@ Checks if the user-inputted string is a **palindrome** (reads the same forwards 
 ## 🔧 Technologies Used
 
 - Python 3.x
-- No external libraries required
 - Console-based input/output
 
 ---
